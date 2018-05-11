@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameControl component Game Over State should render correctly 1`] = `
+<div>
+  <button
+    class="sc-bdVaJa bDWFJH"
+  >
+    <img
+      class="sc-bwzfXH kHVPjs"
+      src="restart.svg"
+      alt="restart"
+    />
+  </button>
+</div>
+`;
+
+exports[`GameControl component Paused State should render correctly 1`] = `
+<div>
+  <button
+    class="sc-bdVaJa bDWFJH"
+  >
+    <img
+      class="sc-bwzfXH kHVPjs"
+      src="play.svg"
+      alt="play"
+    />
+  </button>
+</div>
+`;
+
+exports[`GameControl component Playing State should render correctly 1`] = `
+<div>
+  <button
+    class="sc-bdVaJa bDWFJH"
+  >
+    <img
+      class="sc-bwzfXH kHVPjs"
+      src="pause.svg"
+      alt="pause"
+    />
+  </button>
+</div>
+`;

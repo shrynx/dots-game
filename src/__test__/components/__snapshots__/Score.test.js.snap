@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Score component should render correctly 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa ihkZqg"
+  >
+    200
+  </div>
+</div>
+`;

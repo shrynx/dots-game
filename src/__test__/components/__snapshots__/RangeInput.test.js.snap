@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RangeInput component should render correctly 1`] = `
+<div>
+  <input
+    class="sc-bdVaJa hBoKdj"
+    value="5"
+  />
+</div>
+`;

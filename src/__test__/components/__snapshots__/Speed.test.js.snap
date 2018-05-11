@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Speed component should render correctly 1`] = `
+<div>
+  <span
+    class="sc-bdVaJa jNIuGw"
+  >
+    5
+  </span>
+</div>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InGameText component should render correctly 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa iWwDeN"
+  >
+    Game Over
+  </div>
+</div>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dot component should render correctly 1`] = `
+<div>
+  <button
+    style="height: 5px; width: 5px; background-color: rgb(230, 68, 85); top: 100px; left: 100px;"
+    class="sc-bdVaJa dyawHZ"
+    radius="5"
+  />
+</div>
+`;

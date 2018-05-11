@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameArea component should render correctly 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa eLEbYQ"
+  />
+</div>
+`;
