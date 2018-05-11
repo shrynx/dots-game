@@ -1,0 +1,6 @@
+{
+  "viewportWidth": 1000,
+  "viewportHeight": 500,
+  "videoRecording": true,
+  "screenshotOnHeadlessFailure": true
+}
